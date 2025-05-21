@@ -96,7 +96,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Images/Banner.tsx",
-        "title": "Register and Save Big!",
+        "title": "Save Big at WeUseStorefront!",
         "cta": {
           "label": "Sign Up",
           "href": "#"
